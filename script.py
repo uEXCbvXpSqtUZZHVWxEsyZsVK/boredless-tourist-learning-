@@ -16,4 +16,4 @@ def get_traveler_location(traveler):
 test_destination_index = get_traveler_location(test_traveler)
 print (test_destination_index)
 
-
+#test
